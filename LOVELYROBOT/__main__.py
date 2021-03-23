@@ -77,6 +77,7 @@ Hi {}, my name is {}!
 I am an Legend powerful group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups.
 You can find my list of available commands with /help.
+ABOUT BOT OWNER CHECK @ABOUTVEDMAT
 """
 
 HELP_STRINGS = """
