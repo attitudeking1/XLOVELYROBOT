@@ -24,9 +24,9 @@ from LOVELYROBOT import (
 
 # needed to dynamically load modules
 # NOTE: Module order is not guaranteed, specify that in the config file!
-from LOVELYROBOT.modules import ALL_MODULES
-from LOVELYROBOT.modules.helper_funcs.chat_status import is_user_admin
-from LOVELYROBOT.modules.helper_funcs.misc import paginate_modules
+from XLOVELYROBOT.modules import ALL_MODULES
+from XLOVELYROBOT.modules.helper_funcs.chat_status import is_user_admin
+from XLOVELYROBOT.modules.helper_funcs.misc import paginate_modules
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode, Update
 from telegram.error import (
     BadRequest,
@@ -101,7 +101,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-LOVELY_IMG = "https://telegra.ph/file/541efcde8cc63c9971b0f.jpg"
+XLOVELY_IMG = "https://telegra.ph/file/541efcde8cc63c9971b0f.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/VEDIC_MATHS_OWNER) or by contacting @VEDIC_MATHS_OWNER \
