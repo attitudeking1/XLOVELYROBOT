@@ -180,7 +180,7 @@ DEMONS = list(DEMONS)
 TIGERS = list(TIGERS)
 
 # Load at end to ensure all prev variables have been set
-from LOVELYROBOT.modules.helper_funcs.handlers import (
+from XLOVELYROBOT.modules.helper_funcs.handlers import (
     CustomCommandHandler,
     CustomMessageHandler,
     CustomRegexHandler,
