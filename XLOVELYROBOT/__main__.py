@@ -232,16 +232,16 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🌟 Support Group",
-                                url=f"https://t.me/VEDMATGROUP",
+                                url=f"https://t.me/ISHQZAADE_0",
                             ),
                             InlineKeyboardButton(
-                                text="💞 CREATOR",
-                                url="https://t.me/VEDIC_MATHS_OWNER",
+                                text="LOVE STATUS❤️",
+                                url="https://t.me/SHAYRI_OF_LOVES",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="💖 LEGEND",
+                                text="CR3ATØR 😎",
                                 url="https://t.me/ABOUTVEDMAT",
                             )
                         ],
